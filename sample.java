@@ -1,6 +1,6 @@
 class sample
 {
 public static void main(String args[]){
-	System.out.println("jenkins job test");
+	System.out.println("jenkins job test 1 ");
 }
 }
